@@ -1,0 +1,17 @@
+<table id="lectures_table" class="asn_table">
+<tr>
+  <th>num</th>
+  <th>ready?</th>
+  <th>date</th>
+  <th>description</th>
+</tr>
+
+{% for lect in site.lectures %}
+<tr class={% if lect.ready %}"ready"{% else %}"not-ready"{% endif %}>
+  <td><a href="{{lect.url}}">{{ lect.num }}</a></td>
+  <td>{{lect.ready}}</td>
+  <td>{{ lect.date | date: "%a %m/%d" }}</td>
+  <td>{{ lect.desc }}</td>
+</tr>
+{% endfor %}
+</table>
