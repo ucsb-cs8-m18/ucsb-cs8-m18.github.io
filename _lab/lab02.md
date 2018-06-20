@@ -3,8 +3,8 @@ layout: lab
 num: lab02
 ready: true
 desc: "FtoC and CtoF with test cases"
-assigned: 2018-08-16 09:30:00.00-7
-due: 2018-08-23 16:45:00.00-7
+assigned: 2018-08-15 09:30:00.00-7
+due: 2018-08-24 16:50:00.00-7
 submit_cs_pnum: 770
 ---
 

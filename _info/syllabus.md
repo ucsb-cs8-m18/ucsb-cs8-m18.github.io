@@ -15,6 +15,9 @@ Basic Facts
 * **Lab** TBD, ATTENDANCE REQUIRED.                                         
 * Office Hours: TBD
 
+Trailer 936 location:<br />
+![Trailer 936 location](/images/936.png)
+
 Official UCSB Catalog Description
 ---------------------------------
 

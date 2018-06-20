@@ -4,7 +4,7 @@ num: lab05
 ready: true
 desc: "Turtle Graphics: Scene from a forest"
 assigned: 2018-08-23 11:00:00.00-7
-due: 2018-08-30 16:50:00.00-7
+due: 2018-08-31 16:50:00.00-7
 submit_cs_pnum: 774
 ---
 
