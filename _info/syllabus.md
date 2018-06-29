@@ -10,10 +10,11 @@ Basic Facts
 * **Course Web Site**: <http://ucsb-cs8-m18.github.io>
 * **Instructor**:  Lawton Nichols
    * Email is lawtonnichols [at] cs [dot] ucsb [dot] edu, but please use Piazza for course-related communication.
-* **Lecture**: TBD, ATTENDANCE REQUIRED.
-* **TAs**: TBD (contact via Piazza) <!--{{site.ta_list_full}} (contact via Piazza.com)-->
-* **Lab** TBD, ATTENDANCE REQUIRED.                                         
-* Office Hours: TBD
+* **Lecture**: TWR  9:30 am – 10:50am, Psych 1924, ATTENDANCE REQUIRED.
+* **TAs**: {{site.ta_list_full}} (contact via Piazza.com)
+* **Lab** Thursdays at either 11, 12:30, 2, or 3, Phelps 3525, ATTENDANCE REQUIRED.                                         
+* Office Hours: 
+  - Lawton: Tuesdays 11:00–1:00, Trailer 936
 
 Trailer 936 location:<br />
 ![Trailer 936 location](/images/936.png)
