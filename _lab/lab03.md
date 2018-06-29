@@ -182,15 +182,7 @@ Or, if you are working on the ECI/CSIL/lab linux systems, you can also submit at
 
 <tt>~submit/submit -p {{page.submit_cs_pnum}} lab03.py</tt>
 
-If you have done the steps so far, you should be able to earn 40/100 points:
-
-* 20 for having a python file that compiles called `lab03.py`
-* 10 for passing the test cases that you yourself put into the file (you get to see these);
-* 10 more for passing instructor supplied test cases (these, you do not get to see,
-   but in this particular case, they are exactly the same as the ones you were given to
-   type in.)
-
-Once you've submitted and you see that you have 25/100 points, you are ready to
+Once you've submitted and you see that you have partial points, you are ready to
 continue with the rest of the lab.
 
 # Step 8: Read these instructions about how the rest of the lab will work
@@ -271,7 +263,7 @@ Then:
 * they should all fail (because you have a stub value, -999)
 * finally, replace the code in the function definition for areaRect with the correct code, and see all the tests pass.
 
-Then, submit to submit.cs again, and you should see that you get 20  more points toward
+Then, submit to submit.cs again, and you should see that you get more points toward
 your maximum possible score of 100.
 
 

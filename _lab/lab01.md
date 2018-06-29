@@ -391,7 +391,7 @@ To submit your code, use:
 
 The page for submitting lab01 is here: <https://submit.cs.ucsb.edu/form/project/{{page.submit_cs_pnum}}/submission>
 
-Navigate to that page, and upload your `hello.py` file.
+Navigate to that page, and upload your `lab01.py` file.
 
 If you are working on the ECI/CSIL/lab linux systems, you can also submit at the command line with this command:
 
