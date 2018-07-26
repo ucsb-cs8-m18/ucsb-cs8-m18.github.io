@@ -110,11 +110,9 @@ Here's a bit more detail about each of these:
    learn first, there are two ways of providing input.
 
    The first of these is using something like the `input` function
-   which was covered in Chapter 3 of the textbook.  We also asked you about it
-   on [Homework Assignment h04](/hwk/h04/)&mdash;in this lab, we'll put that
-   knowledge to work.
+   which was covered in Chapter 3 of the textbook. 
 
-   I mentioned on [Homework Assignment h04](/hwk/h04/), that while the author
+   While the author
    suggest the use of the `eval` function for getting non-string input
    from the user, I <em>strongly recommend</em> against getting into this
    habit.   We'll explore better ways of doing that in this lab.
@@ -605,7 +603,7 @@ When that's working, we'll try the next step, which is to convert the user input
 
 # Step 8: Converting `input` data to a number
 
-As you know from the reading in Chapter 3, and [Homework H04](/hwk/h04/), the `input` function returns string data (Python type `str`).  If we want to use this as a number, we need to do a conversion.  The textbook suggest using `eval`. DON'T DO THAT.  Here's what do to instead:
+As you know from the reading in Chapter 3, the `input` function returns string data (Python type `str`).  If we want to use this as a number, we need to do a conversion.  The textbook suggest using `eval`. DON'T DO THAT.  Here's what do to instead:
 
 ```
 if __name__=="__main__":
