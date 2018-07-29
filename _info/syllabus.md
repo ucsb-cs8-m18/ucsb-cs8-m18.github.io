@@ -190,12 +190,13 @@ Thus,
 To convert final averages to letter grades, a standard 10 point scale will be used, with the upper and lower ends of each range as +/- grades, except
 for A+ grades, see below.  There is no "rounding up"; a grade of 86.9999 is a B and a grade of 87.0000 is a B+.
 
-| Grade Item                                                                   | Percentage of Final Grade |
-|------------------------------------------------------------------------------|---------------------------|
-| Midterm                                                                     | 30 %                      |
-| Final                                                                        | 30 %                      |
+| Grade Item                | Percentage of Final Grade |
+|---------------------------|---------------------------|
+| Midterm     | 25 %                      |
+| Final       | 30 %                      |
 | Labs | 25 % |
-| Hwks | 15 % |
+| Hwks | 18 % |
+| iClicker | 2%  |
 
 ## Grade assignment policy
 <table border="2">

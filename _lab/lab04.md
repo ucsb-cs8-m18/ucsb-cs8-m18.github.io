@@ -12,26 +12,12 @@ submit_cs_pnum: 776
 
 Please decide before you begin whether you want to work solo or in a pair.
 
-You are free to choose either, but if you choose to work in a pair, please:
-
-1. Register for the lab as a pair on submit.cs right from the start
-
-   (Note that you have to register as a pair on submit.cs
-   for *each* lab separately; pair
-   assigments do not carry over from one lab to the next)
-
-2. Once you register as a pair, please ONLY work when you are together with your pair.
-
-   If you cannot make that committment, then please, both of you
-   just do the work as
-   as a solo programmer.
-
-In particular, the following is NOT OK:
+If you do decide to work in a pair, keep in mind that the following is NOT OK:
 
 * Chris and Pat form a pair.
 
-* Chris works on the alone on Monday night.  Chris uploads the
-   submission to submit.cs
+* Chris works on the assignment alone on Monday night.  Chris uploads the
+   submission to Gradescope
    
 * Pat downloads the joint submission on Tuesday night and works alone
    on it to finish it up.
@@ -181,33 +167,6 @@ Here's a bit more detail about each of these:
 Ok, we are ready to get started.
 
 
-# Step 0: (OPTIONAL) Register your pair (if working in a pair)
-
-If you are solo programming, skip to step 1.
-
-To register your pair in submit.cs, navigate to the page for this assignment:
-
-<https://submit.cs.ucsb.edu/class/85>
-
-You should see a lab04 link.  Click that.
-
-Then, you  should see a “Join Group” button. Click this button.  
-
-The subsequent page will allow you to accept and reject invitations from your classmates, as well invite one of your classmates by their umail address to join your pair.
-
-<strong>NOTE:</strong> Only UCSB <strong>umail</strong> addresses will work, since those are the email addresses linked to submit.cs accounts.
-
-While multiple students can invite you to join a pair, the system only permits you to have one outstanding invitation at a time. You must revoke an invitation if you would like to invite someone else.
-
-Once grouped together, both the members of a pair will be able to see all the submissions made by each partner in the pair (but only for that project), regardless of when the submission was made. 
-
-Additional notes on pairs:
-
-* Pairs exist only within the context of a specific programming assignment&mdash;you can be in a different group/pair for each programming assignment.
-
-Once you've registered, you are ready to move on to the next step.
-
-
 # Step 1: Make a `~/cs8/lab04` folder
 
 The easiest way to create this is to do the following, which
@@ -296,7 +255,7 @@ ls
 
 If the file is NOT THERE, then:
 
-* Use your web browser to login to submit.cs
+* Use your web browser to login to Gradescope
 * Navigate to the page for lab02
 * Find your last submission
 * Download the file and save it into your directory.
@@ -314,7 +273,7 @@ There are two work arounds:
 
 (1) Just copy paste the contents from the web page into a new file.
 
-(2) Bring up a web browser running on CSIL by typing either `firefox` or `google-chrome` in at the CSIL prompt. Note: This method is not fun.   It typically runs very slowly, and you may see lots of error messages on the screen, and it will take a long time.  But eventually the Chrome or Firefox browser should appear.  It will hopefully work well enough for you to log into submit.cs and download your convert.py file into your ~/cs8/lab02 directory.
+(2) Bring up a web browser running on CSIL by typing either `firefox` or `google-chrome` in at the CSIL prompt. Note: This method is not fun.   It typically runs very slowly, and you may see lots of error messages on the screen, and it will take a long time.  But eventually the Chrome or Firefox browser should appear.  It will hopefully work well enough for you to log into Gradescope and download your convert.py file into your ~/cs8/lab02 directory.
 
 </div>
 
@@ -353,23 +312,16 @@ ls
 
 If so, you are almost ready for the next step.
 
-Before you go on though, a reminder that you can make a preliminary submission to submit.cs anytime you are "done for the day" (i.e. if you aren't completely finished with the lab, and are planning to come back to it later.)
+Before you go on though, a reminder that you can make a preliminary submission to Gradescope anytime you are "done for the day" (i.e. if you aren't completely finished with the lab, and are planning to come back to it later.)
 
 The benefit is that this provides a way to move your files between CSIL and your own computer, and/or to share files between pair partners.
 
-It's also a way you can put code in a place where the instructors can see it in case you want to ask a question on Piazza via private instructor note.  Upload your code first, then ask the question, and include the URL of the submission on submit.cs.  While you can only see your own submissions on submit.cs (and those of your pair partner, not no one elses), instructors have access to see all submissions for the class.
+It's also a way you can put code in a place where the instructors can see it in case you want to ask a question on Piazza via private instructor note.  Upload your code first, then ask the question, and include your username/Gradescope details.  While you can only see your own submissions on Gradescope (and those of your pair partner, not no one elses), instructors have access to see all submissions for the class.
 
-To make a submission now, you can visit this page:
-
-<https://submit.cs.ucsb.edu/form/project/{{page.submit_cs_pnum}}/submission>
+To make a submission now, you can visit the corresponding Gradescope submission page.
 
 * Navigate to that page, and upload your `lab04.py` AND your `convert.py` file.
 * YOU MUST UPLOAD BOTH.
-
-Or, if you are working on the ECI/CSIL/lab linux systems, you can also submit at the command line with this command, provided you are in the correct folder/diretory:
-
-<tt>~submit/submit -p {{page.submit_cs_pnum}} lab04.py convert.py</tt>
-
 
 
 # Step 4: Go back to your `lab04.py` and run it
@@ -834,7 +786,7 @@ Ok!  That's a lot of stuff.
 
 This lab was pretty "cookbook"&mdash;for the most part, you were led by the hand through it.
 
-If you did it all correctly, you should be able to submit your convert.py and lab04.py files to submit.cs, and get a perfect score right away.
+If you did it all correctly, you should be able to submit your convert.py and lab04.py files and get a perfect score right away.
 
 If you don't get a perfect score, it's likely either because:
 
@@ -849,21 +801,13 @@ Now: you will have a follow up lab where you'll be asked to do all of the same t
 So, please make sure that you read back through this, and if any part of it doesn't make sense to you, <em>ask questions.</em>
 
 
-# Step 12: See perfect score on submit.cs; profit.
+# Step 12: See perfect score on Gradescope; profit.
 
-To submit your file to submit.cs, you can visit this page:
-
-<https://submit.cs.ucsb.edu/form/project/{{page.submit_cs_pnum}}/submission>
+To submit your file, navigate to the corresponding Gradescope submission page.
 
 * Navigate to that page, and upload your `lab04.py` AND your `convert.py` file.
 * YOU MUST UPLOAD BOTH.
 
-Or, if you are working on the ECI/CSIL/lab linux systems, you can also submit at the command line with this command, provided you are in the correct folder/diretory:
-
-<tt>~submit/submit -p {{page.submit_cs_pnum}} lab04.py convert.py</tt>
-
-
-
-At this point, you should see that you have a perfect 100 points on submit.cs, and
+At this point, you should see that you have a perfect 100 points on Gradescope, and
 you are finished with the lab!
 

@@ -14,7 +14,7 @@ In this lab, you'll practice:
 * Testing those functions interactively at the Python prompt
 * Creating a file of automatic test cases for those functions
 * Running those test cases
-* Submitting your functions and test cases to submit.cs for grading
+* Submitting your functions and test cases to Gradescope
 
 
 # Step 0: Install pytest for your account (or on your machine)
@@ -500,22 +500,9 @@ convert.py ....
 169-231-175-204:lab02 pconrad$ 
 ```
 
-At that point, you are ready to submit your work to submit.cs
+At that point, you are ready to submit your work
 
-# Step 8: Submit your `convert.py` file to submit.cs
+# Step 8: Submit your `convert.py` file to Gradescope
 
-To submit your file to submit.cs, you can visit this page:
-
-<https://submit.cs.ucsb.edu/form/project/{{page.submit_cs_pnum}}/submission>
-
-Navigate to that page, and upload your `convert.py` file.
-
-Or, if you are working on the ECI/CSIL/lab linux systems, you can also submit at the command line with this command, provided you are in the correct folder/diretory:
-
-
-<tt>~submit/submit -p {{page.submit_cs_pnum}} convert.py</tt>
-
-
-The first time you use this method, it will ask for your email address: use your full umail address (e.g. `cgaucho@umail.ucsb.edu`).  For password, use the password that you enter for the submit.cs system.    You may save these credentials if you don't want to have to type them in every time.
-
+Navigate to the Gradescope lab02 submission page, and upload your `convert.py` file.
 

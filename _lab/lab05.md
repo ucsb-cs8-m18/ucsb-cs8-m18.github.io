@@ -378,11 +378,11 @@ It should be structured in a way that there is
 If your code meets all those criteria, you should be in good shape to submit it.
 
 
-## Step 9: Submitting via submit.cs
+## Step 9: Submitting via Gradescope
 
-Note that this week, although we are using submit.cs, it is NOT the case that the grade you get from submit.cs is your final grade for the assignment.
+Note that this week, although we are using Gradescope, it is NOT the case that the grade you get from the autograder is your final grade for the assignment.
 
-The grade on submit.cs is just a PART of your grade--you will get 10
+The initial grade on Gradescope is just a PART of your grade--you will get 10
 points for basically submitting *anything* that is a valid Python
 program that has the name <tt>{{page.num}}.py</tt>.
 
@@ -393,29 +393,13 @@ with the requirements listed above.
 If you want reassurance that your code is in good shape, you may ask a
 TA or instructor to look it over during office hours or lab.
 
-To submit your code, use:
-
-### Navigate to the page for submitting {{page.num}}
-
-The page for submitting {{page.num}} is here: <https://submit.cs.ucsb.edu/form/project/{{page.submit_cs_pnum}}/submission>
+To submit your code, navigate to the proper Gradescope submission page.
 
 Navigate to that page, and upload your `{{page.num}}.py` file.
 
-If you are working on the ECI/CSIL/lab linux systems, you can also submit at the command line with this command:
-
-```
-~submit/submit ~/cs8/{{page.num}}/{{page.num}}.py
-```
-
-It will ask for your email address: use your full umail address (e.g. `cgaucho@umail.ucsb.edu`).  For password, use the password that you enter for the submit.cs system.    You may save these credentials if you don't want to have to type them in every time.
+If you got all 10 points, then your submission was accepted---but to emphasize, for this week, the other 90 points will be assigned by a human grader.
 
 
-Note that if you try to upload a file with a name that does not match EXACTLY the name `{{page.num}}.py`, the system will not allow you to do it. 
-
-Once you upload it, you should get a page that shows your submission is pending.
-
-Refresh that page, and you should get one that indicates with either red, or green, whether the test cases for your code passed or failed.
-
-If you got all green, and 10 points, then your submission was accepted---but to emphasize, for this week, the other 90 points will be assigned by a human grader.   You'll be notified of that grade [via Gauchospace](https://gauchospace.ucsb.edu).
-
-Created by Diba Mirza
+<p style="text-align:right">
+*This lab was created by Diba Mirza*
+</p>

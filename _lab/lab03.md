@@ -12,7 +12,7 @@ In this lab, you'll get more practice with
 
 * Writing functions
 * Testing function with pytest
-* Submitting your functions and test cases to submit.cs for grading
+* Submitting your functions and test cases to Gradescope
 
 # Step 1: Verify that pytest is working on the machine where you plan to work.
 
@@ -159,10 +159,10 @@ Of course the formula for the perimiter of a rectangle with length $$ l $$ and w
 
 Once you have the code correct, try testing both using interactive testing as well as by running `pytest`.
 
-# Step 7: Submit your partially completed work to submit.cs
+# Step 7: Submit your partially completed work to Gradescope
 
 You are by no means finished with this lab.   But, we want to encourage you to make
-a submission to submit.cs now anyway.  Here is why:
+a submission to Gradescope now anyway.  Here is why:
 
 1.  It provides a backup copy of your work in case something goes wrong with your
     computer or your CSIL account.
@@ -172,15 +172,7 @@ a submission to submit.cs now anyway.  Here is why:
 3.  You also will be able to see some progress towards completion of the lab&mdash;
     partial credit for completion of this step.
 
-To submit your file to submit.cs, you can visit this page:
-
-<https://submit.cs.ucsb.edu/form/project/{{page.submit_cs_pnum}}/submission>
-
-Navigate to that page, and upload your `lab03.py` file.
-
-Or, if you are working on the ECI/CSIL/lab linux systems, you can also submit at the command line with this command, provided you are in the correct folder/diretory:
-
-<tt>~submit/submit -p {{page.submit_cs_pnum}} lab03.py</tt>
+Navigate to the lab03 submission page, and upload your `lab03.py` file.
 
 Once you've submitted and you see that you have partial points, you are ready to
 continue with the rest of the lab.
@@ -198,10 +190,10 @@ these test cases yourself.
 At each step, you should first try to get the test cases to pass by running
 pytest at the Unix command line as shown.
 
-* Please do this BEFORE submitting to submit.cs
-* Please DO NOT submit to submit.cs without testing locally first
+* Please do this BEFORE submitting to Gradescope
+* Please DO NOT submit to Gradescope without testing locally first
 
-Once you see that they are passing, THEN submit a version to submit.cs to see
+Once you see that they are passing, THEN submit a version to Gradescope to see
 if you also pass the instructor test cases for that step.
 
 If you do, proceed to the next function definition and set of test cases.
@@ -211,7 +203,7 @@ see if you can figure out why.  Is there some case that you did not consider?
 The problems may have hints.
 
 You can also ask questions on Piazza. This is a good situation to use a "private
-post" to the instructors.  We can see your submissions on submit.cs,
+post" to the instructors.  We can see your submissions on Gradescope,
 so you don't have to share your code with us--just tell us your name, which lab you are
 working on, and which step you need a hint for with instructor tests not passing.
 
@@ -263,7 +255,7 @@ Then:
 * they should all fail (because you have a stub value, -999)
 * finally, replace the code in the function definition for areaRect with the correct code, and see all the tests pass.
 
-Then, submit to submit.cs again, and you should see that you get more points toward
+Then, submit to Gradescope again, and you should see that you get more points toward
 your maximum possible score of 100.
 
 
@@ -329,7 +321,7 @@ As a reminder, you can use `-k blah` to run only the tests that have `blah` in t
 python3 -m pytest lab03.py -k isString
 ```
 
-Then finally, try submitting to submit.cs and see if you get the credit for the tests for this function.  You should be able to get up to 80/100 at this step.  When you do, keep going&mdash;you are almost at the finish line.
+Then finally, try submitting to Gradescope and see if you get the credit for the tests for this function.  You should be able to get up to 80/100 at this step.  When you do, keep going&mdash;you are almost at the finish line.
 
 
 # Step 11: Write an `isNumber` function and some test cases for it
@@ -354,11 +346,11 @@ Test your code with:
 python3 -m pytest lab03.py -k isNumber
 ```
 
-Then test your code by submitting to submit.cs.
+Then test your code by submitting to Gradescope
 
 
-# Step 12: See perfect score on submit.cs; profit.
+# Step 12: See perfect score on Gradescope; profit.
 
-At this point, you should see that you have a perfect 100 points on submit.cs, and
+At this point, you should see that you have a perfect 100 points on Gradescope, and
 you are finished with the lab!
 
