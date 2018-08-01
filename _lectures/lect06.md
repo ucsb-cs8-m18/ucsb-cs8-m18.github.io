@@ -2,7 +2,7 @@
 num: "Lecture 6"
 desc: "Pair Programming, pytest"
 ready: false
-date: 2017-08-17 09:30:00.00-7:00
+date: 2018-08-16 09:30:00.00-7:00
 ---
 
 # Code from today's lecture

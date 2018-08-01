@@ -4,7 +4,7 @@ num: lab00
 ready: true
 desc: "Getting Started"
 assigned: 2018-08-07 09:30:00.00-7
-due: 2018-08-09 17:00:00.00-7
+due: 2018-08-10 16:50:00.00-7
 submit_cs_pnum: 767
 ---
 

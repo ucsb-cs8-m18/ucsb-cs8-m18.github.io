@@ -2,7 +2,7 @@
 num: "Lecture 4"
 desc: "logging in from Mac via ssh, Windows via MobaXTerm"
 ready: false
-date: 2017-08-15 09:30:00.00-7:00
+date: 2018-08-14 09:30:00.00-7:00
 ---
 
 # Code from today's lecture

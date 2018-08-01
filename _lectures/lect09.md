@@ -1,8 +1,8 @@
 ---
 num: "Lecture 9"
 desc: "Accumulatator Pattern"
-ready: true
-date: 2017-08-29 09:30:00.00-7:00
+ready: false
+date: 2018-08-28 09:30:00.00-7:00
 ---
 
 * A conversation about notes sheets.

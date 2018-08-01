@@ -2,7 +2,7 @@
 num: "Lecture 12"
 desc: "Local vs. Global, The Call Stack"
 ready: false
-date: 2017-09-05 09:30:00.00-7:00
+date: 2018-09-04 09:30:00.00-7:00
 ---
 
 Lesson about the stack and local vs. global:

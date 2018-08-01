@@ -13,8 +13,10 @@ Basic Facts
 * **Lecture**: TWR  9:30 am – 10:50am, Psych 1924, ATTENDANCE REQUIRED.
 * **TAs**: {{site.ta_list_full}} (contact via Piazza.com)
 * **Lab** Thursdays at either 11, 12:30, 2, or 3, Phelps 3525, ATTENDANCE REQUIRED.                                         
-* Office Hours: 
+* **Office Hours**: 
   - Lawton: Tuesdays 11:00–1:00, Trailer 936
+* **Textbook**: Perkovic - Introduction to Computing Using Python: An Application Development Focus (2nd Edition)
+* **Piazza Sign-up Page**: <https://piazza.com/ucsb/summer2018/cs8nichols>
 
 Trailer 936 location:<br />
 ![Trailer 936 location](/images/936.png)
@@ -254,13 +256,13 @@ Attendance
 
 This course moves quickly. So attendance is very important.  This is even more true in the summer.
 
-Missing homework: Drop the lowest 1
+Missing homework: Drop the lowest one
 -------------------------------------------------------
 
 If you miss a class, you miss the opportunity for the points on that
-homework that was due. Period.
+homework that was due.
 
-There is no makeup. In lieu of providing a makeup opportunity, I will
+I will
 drop the lowest homework grade (which may be
 zeros if you miss an assignment.) Each homework
 will be of equal weight, regardless of the total points 

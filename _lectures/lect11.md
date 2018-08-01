@@ -2,7 +2,7 @@
 num: "Lecture 11"
 desc: "Octal File permissions, more on Accumulator Pattern, Dictionaries"
 ready: false
-date: 2017-08-31 09:30:00.00-7:00
+date: 2018-08-30 09:30:00.00-7:00
 ---
 
 Octal File Permissions:
