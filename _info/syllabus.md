@@ -268,6 +268,11 @@ zeros if you miss an assignment.) Each homework
 will be of equal weight, regardless of the total points 
 listed on the assignment.
 
+Homework grading
+----------------
+
+There are a lot of students in this class and very few TAs, so there's a very good possibility that the TAs won't be able to grade the entirety of your homeworks without going over their 20-hours-a-week work limit. If that happens, the TAs will randomly pick a subset of questions to grade for the homework, grade only those, and your grade for that homework will be (graded questions score / points possible on the graded questions).
+
 Notes sheets on exams
 ---------------------
 
