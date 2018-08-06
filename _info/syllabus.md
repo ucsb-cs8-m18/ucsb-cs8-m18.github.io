@@ -14,9 +14,13 @@ Basic Facts
 * **TAs**: {{site.ta_list_full}} (contact via Piazza.com)
 * **Lab** Thursdays at either 11, 12:30, 2, or 3, Phelps 3525, ATTENDANCE REQUIRED.                                         
 * **Office Hours**: 
-  - Lawton: Tuesdays 11:00–1:00, Trailer 936
+  - Lawton: Tuesdays 11:00am–1:00pm, Trailer 936
+  - Yun: Wednesdays 8:00am–9:00am, Bioengineering 3205
+  - Harmeet: Wednesdays 4:00pm–5:00pm, CSIL
+  - Muqsit: Thursdays 5:00pm–6:00pm, Trailer 936
 * **Textbook**: Perkovic - Introduction to Computing Using Python: An Application Development Focus (2nd Edition)
 * **Piazza Sign-up Page**: <https://piazza.com/ucsb/summer2018/cs8nichols>
+* **Gradescope**: Go to <https://gradescope.com/>, and create a student account with entry code **9DJJKG**. Make sure your name is exactly as it appears in GOLD.
 
 Trailer 936 location:<br />
 ![Trailer 936 location](/images/936.png)
@@ -42,12 +46,11 @@ Introduction to computer program development for students with little to no prog
 * Collaboration is only permitted when specifically allowed for—otherwise, you must do your own work.
    * On most homework assignments  you may collaborate with at most one other person (who must be named).
 * Attendance is required at all lectures and labs (discussion sections)
-   * <strong>You</strong>, yourself, must hand in your own homework in class.  You may not turn in homework on behalf of another student, or ask someone else to turn in yours.
+   * You may not turn in homework on behalf of another student, or ask someone else to turn in yours.
    * I recognize that some absences (e.g. minor illnesses, mishaps, etc.) are unavoidable.  Litigating whether each of these is "excused" or not isn't a good use of anyone's time, so instead we just drop the lowest grade from everyone's homework grades.  In this way, absenses (or failure to turn in homework) does not unduly penalize your grade unless it becomes excessive.
 
 You may NOT: 
 
-* Turn in homework on a day other than when it is due (early or late)
 * Have someone else turn in your homework for you (that will be considered academic dishonesty).
 * Leave homework in a mailbox or slide it under a door
 * Drop it off with the instructor to be graded later.
@@ -258,9 +261,6 @@ This course moves quickly. So attendance is very important.  This is even more t
 
 Missing homework: Drop the lowest one
 -------------------------------------------------------
-
-If you miss a class, you miss the opportunity for the points on that
-homework that was due.
 
 I will
 drop the lowest homework grade (which may be

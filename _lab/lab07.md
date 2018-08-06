@@ -4,7 +4,7 @@ num: lab07
 ready: true
 desc: "min/max, index vs. value"
 assigned: 2018-09-06 11:00:00.00-7
-due: 2018-09-13 16:50:00.00-7
+due: 2018-09-13 18:30:00.00-7
 submit_cs_pnum: 780
 ---
 
@@ -13,8 +13,7 @@ submit_cs_pnum: 780
 At the due date/time listed, submissions will be disabled, and whatever you have submitted by that time will be your final submission for this lab.
 
 NO EXCEPTIONS except for true medical/family emergencies with
-documentation from the Office of Student Life (e.g. hospitalization,
-death in family).  You are being told NOW to get started and not to put off
+documentation from the Office of Student Life.  You are being told NOW to get started and not to put off
 work on this assignment.
 
 

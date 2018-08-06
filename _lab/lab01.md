@@ -4,7 +4,7 @@ num: lab01
 ready: true
 desc: "Turtle Graphics: your initials and graduation year"
 assigned: 2018-08-08 09:30:00.00-7
-due: 2018-08-17 16:50:00.00-7
+due: 2018-08-17 18:30:00.00-7
 submit_cs_pnum: 768
 ---
 
@@ -52,7 +52,7 @@ once at the top, and once at the bottom, like this:
 
 Your first step is to plan our your letters.
 
-To do that, we have a worksheet, [IC00](/hwk/ic00/) for you to complete.
+To do that, we have a worksheet, [IC00](/inclass/ic00/) for you to complete.
 
 Start on that first, then refresh this page for more instructions.
 
