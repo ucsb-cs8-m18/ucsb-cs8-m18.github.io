@@ -7,7 +7,7 @@ var dates = {
 	    "desc" :  "{{ asn.desc }}",
 	    "assigned" :  "{{ asn.assigned }}",
 	    "due" :  "{{ asn.due }}",
-	    "url" :  "{{ asn.url }}",
+	    "url" :  "{{ asn.pdf }}",
 	},
 	{% endfor %}
     {% for asn in site.inclass %}
