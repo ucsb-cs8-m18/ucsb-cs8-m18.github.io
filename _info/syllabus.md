@@ -12,7 +12,7 @@ Basic Facts
    * Email is lawtonnichols [at] cs [dot] ucsb [dot] edu, but please use Piazza for course-related communication.
 * **Lecture**: TWR  9:30 am – 10:50am, Psych 1924, ATTENDANCE REQUIRED.
 * **TAs**: {{site.ta_list_full}} (contact via Piazza.com)
-* **Lab** Thursdays at either 11, 12:30, 2, or 3, Phelps 3525, ATTENDANCE REQUIRED.                                         
+* **Lab** Thursdays at either 11, 12:30, 2, or 3:30, Phelps 3525, ATTENDANCE REQUIRED.                                         
 * **Office Hours**: 
   - Lawton: Tuesdays 11:00am–1:00pm, Trailer 936
   - Yun: Wednesdays 8:00am–9:00am, Bioengineering 3205
