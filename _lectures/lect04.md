@@ -1,6 +1,6 @@
 ---
 num: "Lecture 4"
-desc: "if/else, for"
+desc: "if/else, for, input"
 ready: true
 date: 2018-08-14 09:30:00.00-7:00
 ---
