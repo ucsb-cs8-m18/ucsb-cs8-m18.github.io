@@ -4,7 +4,7 @@ num: lab07
 ready: true
 desc: "min/max, index vs. value"
 assigned: 2018-09-06 11:00:00.00-7
-due: 2018-09-13 18:30:00.00-7
+due: 2018-09-14 18:30:00.00-7
 submit_cs_pnum: 780
 ---
 

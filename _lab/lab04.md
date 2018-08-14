@@ -4,7 +4,7 @@ num: lab04
 ready: true
 desc: "input, scripts, command line arguments"
 assigned: 2018-08-23 11:00:00.00-7
-due: 2018-08-28 18:30:00.00-7
+due: 2018-08-30 18:30:00.00-7
 submit_cs_pnum: 776 
 ---
 
