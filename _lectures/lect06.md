@@ -9,6 +9,9 @@ date: 2018-08-16 09:30:00.00-7:00
 
 <https://github.com/ucsb-cs8-m18/code-from-class/tree/master/08-16>
 
+[Python print documentation](https://docs.python.org/3/library/functions.html#print)
+[Python isspace documentation](https://docs.python.org/3/library/stdtypes.html#str.isspace)
+
 # Pair Programming
 
 <https://www.youtube.com/watch?v=rG_U12uqRhE>
