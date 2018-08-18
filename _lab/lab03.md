@@ -159,25 +159,7 @@ Of course the formula for the perimiter of a rectangle with length $$ l $$ and w
 
 Once you have the code correct, try testing both using interactive testing as well as by running `pytest`.
 
-# Step 7: Submit your partially completed work to Gradescope
-
-You are by no means finished with this lab.   But, we want to encourage you to make
-a submission to Gradescope now anyway.  Here is why:
-
-1.  It provides a backup copy of your work in case something goes wrong with your
-    computer or your CSIL account.
-    
-2.  It provides a staging ground for you to move your file between your laptop and CSIL.
-
-3.  You also will be able to see some progress towards completion of the lab&mdash;
-    partial credit for completion of this step.
-
-Navigate to the lab03 submission page, and upload your `lab03.py` file.
-
-Once you've submitted and you see that you have partial points, you are ready to
-continue with the rest of the lab.
-
-# Step 8: Read these instructions about how the rest of the lab will work
+# Step 7: Read these instructions about how the rest of the lab will work
 
 In each of the steps that remain, you will add an additional function definition,
 and some test cases.
@@ -192,9 +174,7 @@ pytest at the Unix command line as shown.
 
 * Please do this BEFORE submitting to Gradescope
 * Please DO NOT submit to Gradescope without testing locally first
-
-Once you see that they are passing, THEN submit a version to Gradescope to see
-if you also pass the instructor test cases for that step.
+* You can submit to Gradescope to see partial progress, but only if you have function definitions for `perimRect`, `areaRect`, `isString`, and `isNumber`. If you want to submit your work to Gradescope to see partial points, please make functions with those names (they can return silly things, like 42 or something, if you haven't started them yet. Just as long as they're there the autograder won't complain.)
 
 If you do, proceed to the next function definition and set of test cases.
 
@@ -210,7 +190,7 @@ working on, and which step you need a hint for with instructor tests not passing
 Once you understand all how this is going to work, you are ready to start coding
 the additional functions.
 
-# Step 9: Write an `areaRect` function and some test cases for it
+# Step 8: Write an `areaRect` function and some test cases for it
 
 Now, add the definition of a function called `areaRect`.
 
@@ -255,11 +235,8 @@ Then:
 * they should all fail (because you have a stub value, -999)
 * finally, replace the code in the function definition for areaRect with the correct code, and see all the tests pass.
 
-Then, submit to Gradescope again, and you should see that you get more points toward
-your maximum possible score of 100.
 
-
-# Step 10: Write an `isString` function and some test cases for it
+# Step 9: Write an `isString` function and some test cases for it
 
 Here is an example of a function that tests whether something is a list or not.
 
@@ -321,10 +298,8 @@ As a reminder, you can use `-k blah` to run only the tests that have `blah` in t
 python3 -m pytest lab03.py -k isString
 ```
 
-Then finally, try submitting to Gradescope and see if you get the credit for the tests for this function.  You should be able to get up to 80/100 at this step.  When you do, keep going&mdash;you are almost at the finish line.
 
-
-# Step 11: Write an `isNumber` function and some test cases for it
+# Step 10: Write an `isNumber` function and some test cases for it
 
 Our last function is one called `isNumber` that should take a parameter `x` and return
 `True` if the value `x` refers to is either of type `int` or of type `float`.  In any other case, it should return `False`.
@@ -346,10 +321,9 @@ Test your code with:
 python3 -m pytest lab03.py -k isNumber
 ```
 
-Then test your code by submitting to Gradescope
+Then test your code by submitting to Gradescope.
 
-
-# Step 12: See perfect score on Gradescope; profit.
+# Step 11: See perfect score on Gradescope; profit.
 
 At this point, you should see that you have a perfect 100 points on Gradescope, and
 you are finished with the lab!
