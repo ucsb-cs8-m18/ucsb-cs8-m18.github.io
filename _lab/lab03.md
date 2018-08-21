@@ -323,8 +323,7 @@ python3 -m pytest lab03.py -k isNumber
 
 Then test your code by submitting to Gradescope.
 
-# Step 11: See perfect score on Gradescope; profit.
+# Step 11: See each test passing on Gradescope; profit.
 
-At this point, you should see that you have a perfect 100 points on Gradescope, and
-you are finished with the lab!
+At this point, you should see that you have a full score for each test on Gradescope. I have some hidden tests that are being run, so you won't see your full grade until after the deadline passes.
 
