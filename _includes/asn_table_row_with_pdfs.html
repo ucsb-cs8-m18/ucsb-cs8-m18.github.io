@@ -1,5 +1,5 @@
 <tr class={% if asn.ready %}"ready"{% else %}"not-ready"{% endif %} >
-  <td class="asn_num"  ><a href="{{asn.url}}" data-ajax="false">{{ asn.num }}</a></td>
+  <td class="asn_num"  ><span title="{{asn.url}}" data-ajax="false">{{ asn.num }}</span></td>
   <th><a href="{{asn.pdf}}" data-ajax="false">pdf</a></th>
   <td class="asn_ready">{{asn.ready}}</td>
   <td class="asn_desc" >{{ asn.desc }}</td>
