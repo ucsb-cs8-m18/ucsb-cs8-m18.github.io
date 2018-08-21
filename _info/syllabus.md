@@ -276,7 +276,7 @@ There are a lot of students in this class and very few TAs, so there's a very go
 Notes sheets on exams
 ---------------------
 
--   You are permitted one 8.5 x 11 (standard US letter size paper) sheet of notes for each exam.
+-   You are permitted one HANDWRITTEN 8.5 x 11 (standard US letter size paper) sheet of notes for each exam.
 -   You are permitted only one sheet per exam.
 -   Your notes sheet will be collected and WILL NOT BE RETURNED
 -   So, if you need a copy of it, make a copy BEFORE you come to the exam.
