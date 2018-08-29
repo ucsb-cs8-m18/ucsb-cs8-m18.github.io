@@ -11,6 +11,12 @@ date: 2018-08-28 09:30:00.00-7:00
 
 ---
 
+Number conversions:
+<http://www.robotroom.com/NumberSystems3.html>
+<https://ucsb-cs8.github.io/topics/number_conversions/>
+
+---
+
 lots of grades are up
 
 returning "True" vs. returning True
