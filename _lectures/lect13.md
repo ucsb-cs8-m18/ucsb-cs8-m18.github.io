@@ -5,42 +5,51 @@ ready: false
 date: 2018-09-05 09:30:00.00-7:00
 ---
 
-* Review: <https://ucsb-cs8-m17.github.io/hwk/ic02/>
+# Code from class
 
-* Code: <https://github.com/ucsb-cs8-m17/Lecture13_0906>
+<https://github.com/ucsb-cs8-m18/code-from-class/tree/master/09-05>
 
-* Review of Accum Pattern
+---
 
-* Raising exceptions and testing for exceptions
+iClicker Questions
+==================
 
-```
-import pytest
+0. What does the following code return when called with f(2)?
 
-def countAs(s):
-   " count a and A in string s "
-   if type(s)!=str:
-      raise ValueError('parameter to countAs should be of type str')
-   count = 0
-   for c in s:
-      if c=='a' or c=='A':
-         count = count + 1
-   return count
+   def f(x):
+     if x == 0:
+       return 0
+     else:
+       return f(x-1)
 
+   (a) 0
+   (b) 1
+   (c) 2
+   (d) None of the above
 
-def test_countAs_1():
-    with pytest.raises(ValueError):
-       result = countAs(-42)
-       
-def test_countAs_2():
-   assert countAs("Santa Ana")==4
+1. What about f(-2)?
+   
+   (a) 0
+   (b) -1
+   (c) -2
+   (d) None of the above
 
+In-Class Questions / Schedule of Events
+=======================================
 
-```
-
-
-* Finding min and max
-
-* Recursion
-
-   * first 
-   * rest
+- The Shakespeare text prediction program works now!
+- local vs. global
+  - variables defined inside a function are called *local*
+    variables. They don't affect any variables defined with the same
+    name elsewhere. This is good for encapsulation.
+  - different functions have different *spaces* for variables. These
+    are called namespaces.
+  - a new namespace is made for every function call (example on
+    p. 208)
+  - *global* variables are those defined outside of any function
+    - they can be accessed anywhere, but you need to use special code
+      to update them inside of functions
+- a very quick taste of recursion (more to come tomorrow)
+- ic01!
+- stacks, push and pop (starts at __main__)
+  - <https://www.cs.ucsb.edu/~pconrad/cs8/topics.beta/theStack/>
