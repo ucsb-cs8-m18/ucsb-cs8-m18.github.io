@@ -1,7 +1,7 @@
 ---
 num: "Lecture 13"
-desc: "Review of Accum Pattern, Recursion"
-ready: false
+desc: "ic01, stacks"
+ready: true
 date: 2018-09-05 09:30:00.00-7:00
 ---
 
@@ -11,6 +11,7 @@ date: 2018-09-05 09:30:00.00-7:00
 
 ---
 
+```
 iClicker Questions
 ==================
 
