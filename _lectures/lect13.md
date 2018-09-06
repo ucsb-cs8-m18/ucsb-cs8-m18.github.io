@@ -34,6 +34,7 @@ iClicker Questions
    (b) -1
    (c) -2
    (d) None of the above
+```
 
 In-Class Questions / Schedule of Events
 =======================================
