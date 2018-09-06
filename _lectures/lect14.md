@@ -46,5 +46,5 @@ Schedule of Events
       with pytest.raises(ValueError):
         result = largestInt("not a list")
     ```
-- recursion (use Diba's slides)
+- recursion ([slides are here](/lectures/Lecture15_Recursion.pdf))
 - lab06, hasAnE, tupleContainingStringsOfLength3 examples
